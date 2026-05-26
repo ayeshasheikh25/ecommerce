@@ -24,24 +24,26 @@ This application includes a modern UI for an online grocery store with features 
 src/
 │
 ├── components/
-│ ├── Cart
-│ ├── Header
-| ├──Icons
-| ├──Dropdown
-│ ├── Footer
-│ └── CategorySidebar
+│   ├── Cart/
+│   ├── Header/
+│   ├── Icons/
+│   ├── Dropdown/
+│   ├── Footer/
+│   └── CategorySidebar/
 │
 ├── pages/
-│ ├── Home
-│ ├── Account
-│ └── Offer
+│   ├── Home/
+│   ├── Account/
+│   └── Offer/
 │
 ├── navigation/
-│ ├── Dashboard
-| ├── MainStack
-| |── NavBar
+│   ├── Dashboard/
+│   ├── MainStack/
+│   └── NavBar/
 │
 ├── App.js
+└──index.js
+
 
 ## Installation Process
  -npm install
