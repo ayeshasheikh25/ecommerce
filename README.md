@@ -20,31 +20,6 @@ This application includes a modern UI for an online grocery store with features 
 - Tailwind CSS 
 - React Router DOM
 
-## Folder Structure
-src/
-│
-├── components/
-│   ├── Cart/
-│   ├── Header/
-│   ├── Icons/
-│   ├── Dropdown/
-│   ├── Footer/
-│   └── CategorySidebar/
-│
-├── pages/
-│   ├── Home/
-│   ├── Account/
-│   └── Offer/
-│
-├── navigation/
-│   ├── Dashboard/
-│   ├── MainStack/
-│   └── NavBar/
-│
-├── App.js
-└──index.js
-
-
 ## Installation Process
  -npm install
 
